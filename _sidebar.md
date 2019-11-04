@@ -10,3 +10,5 @@
 * Chapter 03: Name
   * [First subchapter](ch03/first-subchapter.md)
   * [Second subchapter](ch03/second-subchapter.md)
+* Chapter 04: More info
+  * [First chapter](ch04/first-subchapter.md)
