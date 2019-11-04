@@ -3,6 +3,7 @@
 * Chapter 01: Name
   * [First subchapter](ch01/first-subchapter.md)
   * [Second subchapter](ch01/second-subchapter.md)
+  * [Third subchapter](ch01/third-subchapter.md)
 * Chapter 02: Name
   * [First subchapter](ch02/first-subchapter.md)
   * [Second subchapter](ch02/second-subchapter.md)
